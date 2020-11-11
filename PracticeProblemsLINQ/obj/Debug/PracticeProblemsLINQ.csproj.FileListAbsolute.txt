@@ -1,0 +1,9 @@
+C:\Users\miky1\OneDrive\Desktop\PracticeProblemsLINQ\PracticeProblemsLINQ\obj\Debug\PracticeProblemsLINQ.csprojAssemblyReference.cache
+C:\Users\miky1\OneDrive\Desktop\PracticeProblemsLINQ\PracticeProblemsLINQ\obj\Debug\PracticeProblemsLINQ.csproj.CoreCompileInputs.cache
+D:\DCC Projects\PracticeProblemsLINQ-StarterCode\PracticeProblemsLINQ-StarterCode\PracticeProblemsLINQ\bin\Debug\PracticeProblemsLINQ.exe.config
+D:\DCC Projects\PracticeProblemsLINQ-StarterCode\PracticeProblemsLINQ-StarterCode\PracticeProblemsLINQ\bin\Debug\PracticeProblemsLINQ.exe
+D:\DCC Projects\PracticeProblemsLINQ-StarterCode\PracticeProblemsLINQ-StarterCode\PracticeProblemsLINQ\bin\Debug\PracticeProblemsLINQ.pdb
+D:\DCC Projects\PracticeProblemsLINQ-StarterCode\PracticeProblemsLINQ-StarterCode\PracticeProblemsLINQ\obj\Debug\PracticeProblemsLINQ.csprojAssemblyReference.cache
+D:\DCC Projects\PracticeProblemsLINQ-StarterCode\PracticeProblemsLINQ-StarterCode\PracticeProblemsLINQ\obj\Debug\PracticeProblemsLINQ.csproj.CoreCompileInputs.cache
+D:\DCC Projects\PracticeProblemsLINQ-StarterCode\PracticeProblemsLINQ-StarterCode\PracticeProblemsLINQ\obj\Debug\PracticeProblemsLINQ.exe
+D:\DCC Projects\PracticeProblemsLINQ-StarterCode\PracticeProblemsLINQ-StarterCode\PracticeProblemsLINQ\obj\Debug\PracticeProblemsLINQ.pdb
